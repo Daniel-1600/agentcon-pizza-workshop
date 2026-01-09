@@ -12,7 +12,7 @@ Esta configuração garante:
 
 ### 1. Fazer Fork do Repositório  
 1. Vá para o repositório oficial do workshop:  
-   👉 [https://github.com/GlobalAICommunity/agentcon-pizza-workshop-codespace](https://github.com/GlobalAICommunity/agentcon-pizza-workshop-codespace)  
+   👉 [https://github.com/GlobalAICommunity/agentcon-pizza-workshop](https://github.com/GlobalAICommunity/agentcon-pizza-workshop)  
 2. Clique em **Fork** no canto superior direito.  
 3. Selecione sua conta GitHub como destino.  
 

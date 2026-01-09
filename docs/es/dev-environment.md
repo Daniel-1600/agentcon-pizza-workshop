@@ -12,7 +12,7 @@ Esta configuración asegura:
 
 ### 1. Hacer un Fork del Repositorio  
 1. Ve al repositorio oficial del taller:  
-   👉 [https://github.com/GlobalAICommunity/agentcon-pizza-workshop-codespace](https://github.com/GlobalAICommunity/agentcon-pizza-workshop-codespace)  
+   👉 [https://github.com/GlobalAICommunity/agentcon-pizza-workshop](https://github.com/GlobalAICommunity/agentcon-pizza-workshop)  
 2. Haz clic en **Fork** en la esquina superior derecha.  
 3. Selecciona tu cuenta de GitHub como destino.  
 

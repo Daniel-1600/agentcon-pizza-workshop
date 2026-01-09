@@ -2,10 +2,10 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "🍕 Contoso Pizza Workshop",
-  description: "Contoso Pizza",
+  title: "🍕 Pizza Agent Workshop",
+  description: "Build a Pizza Ordering Agent with Microsoft Foundry and MCP",
   ignoreDeadLinks: true,
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/favicon.png' }]],
   lang: 'en-US',
   lastUpdated: true,
   locales: {
@@ -148,7 +148,10 @@ export default defineConfig({
       { text: '✉️ Contact & Feedback', link: '/contact-feedback' }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/GlobalAICommunity/agentcon-pizza-workshop' }
+      { icon: 'github', link: 'https://github.com/GlobalAICommunity/agentcon-pizza-workshop' },
+      { icon: 'linkedin', link: 'https://www.linkedin.com/company/global-ai-community/' },
+      { icon: 'youtube', link: 'https://www.youtube.com/@GlobalAICommunity' },
+      { icon: 'discord', link: 'https://gaic.io/discord/' },
     ],
     search: {
       provider: 'local'

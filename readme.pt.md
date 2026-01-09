@@ -1,6 +1,8 @@
 # Construa um Agente de Pedidos de Pizza com Microsoft Foundry e MCP 🚀  
 
-![](/public/banner.png)
+**[English](readme.md)** | **[Español](readme.es.md)** | **Português**
+
+![](./docs/public/banner.png)
 
 ## Visão Geral do Workshop  
 
@@ -22,10 +24,10 @@ Ao final do workshop, você terá construído seu próprio **Contoso PizzaBot**,
   Faça login no Azure, instale pacotes e construa um agente GPT-4o simples  
 
 - **Capítulo 2: Prompts de Sistema e Instruções**  
-  Aprenda como prompts moldam o comportamento do agente e adicione instruções personalizadas do `instructions.txt`  
+  Aprenda como prompts moldam o comportamento do agente e adicione instruções personalizadas do `instrucoes.txt`  
 
 - **Capítulo 3: Adicionando Conhecimento (RAG)**  
-  Fundamente seu agente em dados de lojas de pizza usando File Search e um vector store  
+  Fundamente seu agente em dados de lojas de pizza usando Busca de Arquivos e um vector store  
 
 - **Capítulo 4: Chamada de Ferramentas**  
   Estenda seu agente com uma função calculadora de pizza personalizada e integração de toolset  
@@ -39,8 +41,8 @@ Ao final do workshop, você terá construído seu próprio **Contoso PizzaBot**,
 ## O Que Você Vai Precisar  
 
 - Um navegador e acesso ao [Portal Azure](https://portal.azure.com)  
-- Uma [assinatura Azure](./get-azure) fornecida ou use a sua própria
-- Um [ambiente de desenvolvimento](./dev-environment) com Python 3.10+ instalado  
+- Uma [assinatura Azure](docs/get-azure) fornecida ou use a sua própria
+- Um [ambiente de desenvolvimento](docs/dev-environment) com Python 3.10+ instalado  
 - Familiaridade com o básico de Python (não é necessário conhecimento profundo em IA!)  
 
 ## Objetivo do Workshop  

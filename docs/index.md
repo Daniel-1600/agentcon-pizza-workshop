@@ -1,4 +1,4 @@
-# Microsoft Foundry Agent Workshop 🚀  
+# Build a Pizza Ordering Agent with Microsoft Foundry and MCP 🚀  
 
 ![](/public/banner.png)
 

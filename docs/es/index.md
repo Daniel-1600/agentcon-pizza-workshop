@@ -1,4 +1,4 @@
-# Taller de Agentes de Microsoft Foundry 🚀  
+# Construye un Agente de Pedidos de Pizza con Microsoft Foundry y MCP 🚀  
 
 ![](/public/banner.png)
 
