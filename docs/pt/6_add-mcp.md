@@ -52,7 +52,7 @@ Adicione este código após sua seção de Ferramenta de Chamada de Função e a
 ## -- MCP -- ##
 mcpTool = MCPTool(
     server_label="contoso-pizza-mcp",
-    server_url="<!--@include: ./variables/mcp-url.md-->",
+    server_url="<!--@include: ../variables/mcp-url.md-->",
     require_approval="never"
 )
 ## -- MCP -- ##

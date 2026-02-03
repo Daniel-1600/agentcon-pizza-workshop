@@ -16,9 +16,9 @@ O sistema consiste em múltiplos serviços interconectados:
 
 |  Nome | Descrição |
 |-----------|-------------|
-| Servidor MCP de Pizza | [<!--@include: ./variables/mcp-url.md-->](<!--@include: ./variables/mcp-url.md-->)|
-| Aplicativo web de Pizza | [<!--@include: ./variables/pizza-dashboard.md-->](<!--@include: ./variables/pizza-dashboard.md-->)|
-| Sistema de registro | [<!--@include: ./variables/customer-registration.md-->](<!--@include: ./variables/customer-registration.md-->) |
+| Servidor MCP de Pizza | [<!--@include: ./variables/mcp-url.md-->](<!--@include: ../variables/mcp-url.md-->)|
+| Aplicativo web de Pizza | [<!--@include: ./variables/pizza-dashboard.md-->](<!--@include: ../variables/pizza-dashboard.md-->)|
+| Sistema de registro | [<!--@include: ./variables/customer-registration.md-->](<!--@include: ../variables/customer-registration.md-->) |
 
 
 ## Visão Geral
@@ -55,7 +55,7 @@ Primeiro, você precisa iniciar a API de Pizza e o servidor MCP de Pizza localme
     ```
 2. Ctrl+clique para carregar o aplicativo web MCP Inspector a partir da URL exibida pelo aplicativo (ex: http://127.0.0.1:6274)
 3. No MCP Inspector, defina o tipo de transporte para **SSE** e 
-3. Coloque `<!--@include: ./variables/mcp-url.md-->` no campo URL e clique no botão **Connect**.
+3. Coloque `<!--@include: ../variables/mcp-url.md-->` no campo URL e clique no botão **Connect**.
 4. Na aba **Tools**, selecione **List Tools**. Clique em uma ferramenta e selecione **Run Tool**.
 
 > [!NOTE]
